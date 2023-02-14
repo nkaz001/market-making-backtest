@@ -1,4 +1,6 @@
-Project moved to https://github.com/nkaz001/algotrading-example
+# Project moved to 
+**order book imbalance strategy: https://github.com/nkaz001/algotrading-example**  
+**market making: https://github.com/nkaz001/hftbacktest**  
 
 # Algorithmic trading backtests
 
